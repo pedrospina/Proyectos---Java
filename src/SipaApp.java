@@ -79,6 +79,7 @@ public class SipaApp {
     // Generar reporte y salir
     private void generarReporteYSalir() {
     
+        
     }
 
    
